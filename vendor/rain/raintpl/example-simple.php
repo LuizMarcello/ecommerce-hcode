@@ -31,6 +31,3 @@
 
 	// draw the template
 	$tpl->draw( "simple_template" );
-
-        
-?>
