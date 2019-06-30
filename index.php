@@ -2,6 +2,7 @@
 
 require_once("vendor/autoload.php");
 
+//slim: Definindo rotas:
 use \Slim\Slim;
 use \Hcode\Page;
 
